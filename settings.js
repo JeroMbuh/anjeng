@@ -1,7 +1,7 @@
 const fs = require('fs')
 
 global.creator = 'Dange_Menggila'// yourname
-global.MONGO_DB_URI = "mongodb+srv://geronomika2:<altarim123#>@cluster0.mb2jzyz.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
+global.MONGO_DB_URI = "mongodb+srv://geronomika2:<1nAp9uRKzyimdmgQ>@cluster1.zfdf0j5.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "geronomika123@gmail.com" //email
 global.email_password = "lnicdazlafpncpji" //application password email
